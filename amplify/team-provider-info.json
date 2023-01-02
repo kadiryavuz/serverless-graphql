@@ -10,6 +10,11 @@
       "StackName": "amplify-serverlessgraphql-dev-13939",
       "StackId": "arn:aws:cloudformation:eu-west-1:392558335476:stack/amplify-serverlessgraphql-dev-13939/f2e13a60-8a35-11ed-aac7-0a439110601b",
       "AmplifyAppId": "d3e82fro2k6rfq"
+    },
+    "categories": {
+      "api": {
+        "serverlessgraphql": {}
+      }
     }
   }
 }
